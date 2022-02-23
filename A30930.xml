@@ -1,0 +1,255 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at St. Mary Le Bow, on Whitsunday, May xxxi,  1691 at the consecration of the Most Reverend Father in God, John, Lord Archbishop of Canterbury, and primate of all England / by Ra. Barker ...</title>
+            <author>Barker, Ralph, 1648-1708.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30930</idno>
+            <idno type="STC">Wing B777A</idno>
+            <idno type="STC">ESTC R17105</idno>
+            <idno type="EEBO-CITATION">11734101</idno>
+            <idno type="OCLC">ocm 11734101</idno>
+            <idno type="VID">48459</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30930)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48459)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 524:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at St. Mary Le Bow, on Whitsunday, May xxxi,  1691 at the consecration of the Most Reverend Father in God, John, Lord Archbishop of Canterbury, and primate of all England / by Ra. Barker ...</title>
+                  <author>Barker, Ralph, 1648-1708.</author>
+               </titleStmt>
+               <extent>[4], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for James Adamson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bristol Public Library, Bristol, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tillotson, John, 1630-1694.</term>
+               <term>Church of England --  Sermons.</term>
+               <term>Bible. --  N.T. --  John XXI, 17 --  Sermons.</term>
+               <term>Ordination sermons.</term>
+               <term>Consecration of bishops --  Church of England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48459:1" rendition="simple:additions"/>
+            <p>A SERMON Preached at <hi>St. Mary Le Bow,</hi> ON Whitſunday, May xxxi. 1691.</p>
+            <p>AT THE CONSECRATION Of the Moſt Reverend Father in God JOHN Lord Archbiſhop of CANTERBURY, <hi>And Primate of all</hi> England.</p>
+            <p>By <hi>RA. BARKER,</hi> Chaplain to the Archbiſhop of <hi>Canterbury,</hi> and Fellow of <hi>Gonvil</hi> and <hi>Caius</hi> Colledge in <hi>Cambridge.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>James Adamſon</hi> at the <hi>Angel</hi> and <hi>Crown</hi> in S. <hi>Paul's Church-Yard.</hi> 1691.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:48459:2"/>
+            <pb facs="tcp:48459:2"/>
+            <head>TO THE Moſt Reverend Father in God, JOHN Lord Archbiſhop of CANTERBURY.</head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>THAT your Grace was pleaſed kind<g ref="char:EOLhyphen"/>ly to Accept this my Mean Perfor<g ref="char:EOLhyphen"/>mance at your Conſecration, was, I do believe, for the Plainneſs and Sincerity of it, which I always knew to be most Accep<g ref="char:EOLhyphen"/>table to you; and what you would chuſe to
+<pb facs="tcp:48459:3"/> Countenance in the Clergy, rather than any thing of Panegyrick, which might perhaps have been expected on ſuch an Occaſion. And therefore I ſhall only beg your Acceptance, of theſe my firſt Fruits; as a Hearty Acknow<g ref="char:EOLhyphen"/>ledgment of thoſe great Favours, which for many Years together you have Vouchſafed to</p>
+            <closer>
+               <signed>Your Grace's, Moſt Humble, And moſt Faithful Servant, RA. BARKER.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:48459:3"/>
+            <head>A Conſecration Sermon<g ref="char:punc">▪</g> 
+               <hi>&amp;c.</hi>
+            </head>
+            <epigraph>
+               <bibl>St. <hi>JOHN,</hi> xxi. 17.</bibl>
+               <q>He ſaid unto him the third time, <hi>Simon,</hi> Son of <hi>Jonas,</hi> loveſt thou me? <hi>Peter</hi> was grieved, becauſe he ſaid unto him the third time, lo<g ref="char:EOLhyphen"/>veſt thou me? And he ſaid unto him, Lord, thou knoweſt all things; thou knoweſt that I love thee. He ſaith unto him, Feed my Sheep.</q>
+            </epigraph>
+            <p>THESE Words are part of the Goſ<g ref="char:EOLhyphen"/>pel, for this great occaſion; in which that our Saviour ſhould no leſs than three times put this ſearching Queſti<g ref="char:EOLhyphen"/>on to St. <hi>Peter,</hi> argues ſomething in it very remarkable, both with reſpect to him, and all other the Biſhops and Paſtors of his Flock. With reſpect to St. <hi>Peter,</hi> we may conſider our Saviour applying himſelf to
+<pb n="2" facs="tcp:48459:4"/> him, rather than to any of the reſt, his putting the Queſtion to him three times, his calling him <hi>Simon</hi> Son of <hi>Jonas,</hi> and from thence gather (as many of the Ancient Fa<g ref="char:EOLhyphen"/>thers do) that all this was to reſtore him to his former Office and Dignity, from which he had fallen, by denying his Maſter thrice, and ſo no new Priviledge, nor inlargement of his Power; for had St. <hi>Peter</hi> thus under<g ref="char:EOLhyphen"/>ſtood it, would he have been grieved at our Saviour's ſo often inſiſting on it? They that would have this the meaning of it, think they cannot hear of it, or make others hear of it too often.</p>
+            <p>Let others find out, if they can, the height of Power and Dominion given to St. <hi>Peter</hi> here, over all, even the Apoſtles them<g ref="char:EOLhyphen"/>ſelves; it will be a more ſafe and comforta<g ref="char:EOLhyphen"/>ble Imployment for us, to joyn in the Hea<g ref="char:EOLhyphen"/>venly Rejoycing, which St. <hi>Peter</hi>'s Repen<g ref="char:EOLhyphen"/>tance did occaſion, and to admire the good<g ref="char:EOLhyphen"/>neſs of our Lord, his tender Pity and Com<g ref="char:EOLhyphen"/>paſſion, his readineſs to forgive and receive into Favour this ſtraying Sheep; and from thence learn to do the like towards others. See how wiſely our Saviour prevents any ill uſe, which might have been made of
+<pb n="3" facs="tcp:48459:4"/> St. <hi>Peter</hi>'s Fall, that it might not leſſen him among the Apoſtles, that it might not un<g ref="char:EOLhyphen"/>dermine the effect of his Preaching: That he that was of a fierce and warm Temper, might from himſelf learn, how to pity and treat others in their Faylings. And laſt<g ref="char:EOLhyphen"/>ly, to teach us all, Candour in our Cenſures, Prudence in our Judgings, Charity in our Hopes and Expectations, after Slips and Faylings; and to be as ready to obſerve Men's Repentance, as their Faults; Men's Uſefulneſs, as their Miſcarriages. Our Sa<g ref="char:EOLhyphen"/>viour could remember his Weeping, more than his Denial; and is more earneſt in pub<g ref="char:EOLhyphen"/>liſhing his Love, than his Fear. Oh merci<g ref="char:EOLhyphen"/>ful Saviour, who art more ſtrict to mark what we do well, than what we do amiſs! And canſt ſo remember our Miſcarriages, as to make them the happy occaſion of our greater Love, Inſpire us with this Wiſdom, Increaſe this Love in us</p>
+            <p>Before I treat of the Duty it ſelf, give me leave to obſerve, with what great Care and Caution, our Saviour commits this great Charge unto him; how ſtrictly he examins, how narrowly he pryes into his very Soul; not that he wanted St. <hi>Peter</hi>'s judgment of
+<pb n="4" facs="tcp:48459:5"/> himſelf; for he knew him better than he did himſelf; but to teach us with what wa<g ref="char:EOLhyphen"/>rineſs and ſtrictneſs, Perſons are to be ad<g ref="char:EOLhyphen"/>mitted unto this great Work: Altho' we can<g ref="char:EOLhyphen"/>not know their Hearts, we may know their Lives; tho' we cannot ſee, we may require them to declare, with what Mind and Af<g ref="char:EOLhyphen"/>fection they undertook this Office; Whether they find themſelves moved by the Holy Ghoſt; Whether they act ſincerely and ho<g ref="char:EOLhyphen"/>neſtly, their Conſciences bearing them Wit<g ref="char:EOLhyphen"/>neſs in the Holy Ghoſt: That not meerly for any ſecular Ends or Preferments, which the <hi>Catechiſmus ad Parochios</hi> will tell them is Sacri<g ref="char:EOLhyphen"/>ledge; but out of pure love unto their great Maſter, and an holy deſire to do him ſervice in the feeding of his Sheep.</p>
+            <p>In treating of which, I ſhall chiefly have Reſpect to our great Apoſtle St. <hi>Peter,</hi> and, from his Writings and Example, endeavour with all plainneſs, to recommend this great and ſeaſonable Duty; and I could wiſh with all my Heart, that they who moſt admire him, would ſpend their pains in learning this Duty from him, rather than inforce<g ref="char:EOLhyphen"/>ing ſuch Powers and Priviledges upon him,
+<pb n="5" facs="tcp:48459:5"/> as do null the great deſign both of his Life and Doctrin.</p>
+            <p>And ſo I come to conſider the main De<g ref="char:EOLhyphen"/>ſign of theſe words, and in them, Firſt, the Duty it ſelf, Feeding Chriſt's Sheep: And then, Secondly, our love to Chriſt, as the Ground and Foundation, the Guide and Mea<g ref="char:EOLhyphen"/>ſure of it.</p>
+            <p>I begin with the firſt of theſe, the Truſt and Charge of Feeding Chriſt's Sheep, which I ſhall a little inlarge upon, becauſe it hath been moſt ſhamefully miſtaken, abuſed and neglected; and when we have a fair Proſ<g ref="char:EOLhyphen"/>pect of the Duty, it will, I believe, ſet us in a right Way, and be no ſmall advantage in ſetting forth our Love to Chriſt, as the ſureſt Ground and Meaſure of it.</p>
+            <p>And here I ſhall not Criticize upon the Words, which have made ſuch a noiſe in the World, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, becauſe they are promiſcuouſly uſed in this place; and that which others have inſiſted moſt upon, uſed but once, and the other twice; nor ſhall I nicely preſs the Metaphor of Shepherd and Sheep, but rather conſider the general deſign of it, from the care and watchful<g ref="char:EOLhyphen"/>neſs of a Shepherd, in preſerving, nouri<g ref="char:EOLhyphen"/>ſhing
+<pb n="6" facs="tcp:48459:6"/> and improving his Flock, to infer the like in every one that loveth the Lord Jeſus, and is intruſted with his Sheep, that they may be treated as his Sheep, and fitted for his Service; which may be done theſe three ways; by providing them with con<g ref="char:EOLhyphen"/>venient Food, by watching over them, and being examples to them.</p>
+            <p>Firſt by providing them with conveni<g ref="char:EOLhyphen"/>ent Food, ſuch as will be ſure to nouriſh and do them good, which in St. <hi>Peter</hi>'s judgment, is the ſincere Milk of the Word; that Word, which by the Goſpel is preached unto us, that is, the Holy Scrip<g ref="char:EOLhyphen"/>tures; that moſt ſure Word of Prophecy, unto which we ſhall do well, if in all our Preaching we take exacteſt heed, as unto that Light which is to ſhine into all the dark corners of our Souls, that Chriſt's Sheep may hear his voice, and not ano<g ref="char:EOLhyphen"/>thers, that they may know him, and fol<g ref="char:EOLhyphen"/>low him. Should not Chriſt's Sheep know the mind of Chriſt, and be inſtructed in the Words of the Lord Jeſus Chriſt, as <hi>Titus</hi> and the firſt Chriſtians were taught that ſound Doctrin, that Edifying which is in Faith, that <hi>Depoſitum</hi> which he com<g ref="char:EOLhyphen"/>mitted
+<pb n="7" facs="tcp:48459:6"/> to his Chuch? And can we bet<g ref="char:EOLhyphen"/>ter expreſs our love to our Lord or his Sheep, than by giving them the Food which he hath appointed for them, that ſanctifying Word, which is able to make them perfect and ſave their Souls?</p>
+            <p>And ſhall any be ſuch Stewards of God's Grace, as to hoard up this in a Napkin, as too luſcious and over-light Nouriſhment for Sheep? Give them ſome latter Tra<g ref="char:EOLhyphen"/>ditions, ſome Pictures or Legends, which may keep them Humble and Ignorant: Better be lean than wander, better ſtarved than loſt; the Hireling may think ſo, be<g ref="char:EOLhyphen"/>cauſe he is to have the Fleece of ſuch as die alone; but the good Shepherd whoſe own the Sheep are, knows very well that Sheep are more apt to wander, through want of Food than through Plenty, and he knows better how to prevent ſurfeit<g ref="char:EOLhyphen"/>ing than by ſtarving, can eaſilier teach Humility, than ſee ſo many periſh for want of Knowledge; can there be a grea<g ref="char:EOLhyphen"/>ter Error, than to part with our Scrip<g ref="char:EOLhyphen"/>tures for fear of Error; and becauſe ſome wreſt them<g ref="char:punc">▪</g> muſt others not ſee them? Becauſe the Lambs ſuck, muſt the Sheep
+<pb n="8" facs="tcp:48459:7"/> do ſo too? Good God, that ſuch Nonſenſe ſhould paſs for Reaſoning! that Chriſt's Sheep ſhould have ſuch Shepherds!</p>
+            <p>But ſecondly<g ref="char:punc">▪</g> to feed doth include an Ho<g ref="char:EOLhyphen"/>ly Zeal and concern for them to preſerve and ſecure them, as much as may be, both from Sin and Error; to watch for their Souls, as they that muſt give an Account of them to the great Shepherd; not ſuffering them to fall into the Hands of ſuch (and ſuch there are) who if they get them into their Hands, will, as St. <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> fore warns us, make Merchandize of them through Covetouſneſs and fained Words, 2 <hi>Pet.</hi> 2. 3. ſuch Falſe Pro<g ref="char:EOLhyphen"/>phets, ſuch Damnable Hereſies did he foreſee were coming into the World. And therefore he explains Feeding the Flock which is among you, by taking the over-ſight thereof, being acquainted with the State and Condition of their Flocks, their Dangers and Temptations, their Capacities and Circumſtances; that ſo their Preachings and Inſtructions, their Care and Inſpection may reach them, and come home to them; may be ſuited to their ſeveral conditions and preſent wants:
+<pb n="9" facs="tcp:48459:7"/> The good Shepherd is as much con<g ref="char:EOLhyphen"/>cerned to fold his Sheep ſafely, as to provide them with Plenty; to pre<g ref="char:EOLhyphen"/>ſerve them Sound, as Fat; to take care of the Sick and Weak, to reco<g ref="char:EOLhyphen"/>ver the Loſt and Wandering: For which purpoſes he hath his Tarr and his Crook, the Spirit of Meekneſs and a Rod of Power; Power to Rebuke, to Cenſure, to Exclude, for their own good, and for the good of the reſt: St. <hi>Peter</hi> knew how to treat a diſſembling <hi>Ananias.</hi>
+            </p>
+            <p>Thus Feeding doth comprehend all that Spiritual Power and Authority, which Chriſt left with his Church; and which would not miſs of its de<g ref="char:EOLhyphen"/>ſigned Effects, if kept within its due Bounds and Meaſures; and ſuch as our Apoſtle hath taken care to fence it in with; a due Reſpect to the Civil Rights and Intereſts of Kings, and the Governors which are Commiſſioned by them; ſuch as is conſiſtent with Mo<g ref="char:EOLhyphen"/>deſty and Humility, that Pitty and Compaſſion, that unfeigned love of the Brethren, which is due to our Fellow
+<pb n="10" facs="tcp:48459:8"/> Chriſtians as they are Chriſt's Sheep, God's Lot and Heritage. All which Expreſſions, ſo far as I can gather from St. <hi>Peter</hi>'s uſe of them, are a ſafe and good ſtate of the Caſe, betwixt the Civil and Eccleſiaſtical Power, which hath puzelled and endangered ſo ma<g ref="char:EOLhyphen"/>ny Undertakers in it; ſome of which have felt the Weight of that Power, which they themſelves have unwar<g ref="char:EOLhyphen"/>rantably advanced, and underſtood at laſt, what exerciſing the Authori<g ref="char:EOLhyphen"/>ty of Kings and Lording it over their Brethren did ſignifie, both in Chriſt and in St. <hi>Peter,</hi> when they ſo earn<g ref="char:EOLhyphen"/>eſtly forbad them.</p>
+            <p>If Paſtor do ſignifie ſometimes Spi<g ref="char:EOLhyphen"/>ritual, ſometimes Temporal Rulers, it is altogether as unwarrantable and unſafe from thence, to mix the Tem<g ref="char:EOLhyphen"/>poral with the Spiritual, as to mix the Spiritual with the Temporal; for Kings and Rulers may as juſtly hence make themſelves Prieſts, as Prieſts make themſelves Rulers and Kings: If <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignified among the Grecians the Prince and chief Rulers; may
+<pb n="11" facs="tcp:48459:8"/> every Biſhop claim as great Power and Authority as ever they exerci<g ref="char:EOLhyphen"/>ſed? Then may every Chriſtian make himſelf a King or Prieſt, or what he will; as he may pick up ſome Word or Expreſſion, uſed among the Poets or better Authors, for the pur<g ref="char:EOLhyphen"/>poſe he would have it.</p>
+            <p>But to return, Feeding doth im<g ref="char:EOLhyphen"/>ply in the third place, and according to our Saviour's uſe of it, being ex<g ref="char:EOLhyphen"/>emplary, and going before the Flock, according to the Cuſtom of thoſe Countries; and is expreſſed in our Apoſtle, by being Examples to the Flock; in all things ſhewing them<g ref="char:EOLhyphen"/>ſelves Patterns of good Works, in Faith, in Converſation; for a good Life is the ſureſt Ground, the beſt Diſpoſition for the Underſtanding of our Duty, gives the greateſt Courage and Aſſurance in the Performance of it, adds the greateſt advantage and furtherance in the Succeſs thereof.</p>
+            <p>I ſay it is (Firſt) the ſureſt Ground and beſt Qualification for the Underſtanding the buſineſs we go
+<pb n="12" facs="tcp:48459:9"/> about: They were the Holy Men of God, ſaith our Apoſtle, who in all Ages were moved by the Holy Ghoſt; they that do his Will, ſhall know of his Doctrin: For is not our Religi<g ref="char:EOLhyphen"/>on a Practical Knowledge, a Doctrin of Godlineſs, the Work of Righte<g ref="char:EOLhyphen"/>ouſneſs? And ſhall we ſeparate the Knowledge, from the Practice, the Doctrin from the Godlineſs? That is, would we walk in the ways of God, without ſtirring one ſtep? All practi<g ref="char:EOLhyphen"/>cal Things are gained by Practice, and I am ſure in nothing more than in Religion; as it doth by degrees quit us of thoſe Prejudices and En<g ref="char:EOLhyphen"/>tanglements, which debaſe our Un<g ref="char:EOLhyphen"/>derſtandings and Affections, clog our Inclinations, and diſcourage our At<g ref="char:EOLhyphen"/>tempts; as it gives us the true Re<g ref="char:EOLhyphen"/>liſh of the Eaſe and Pleaſure of Re<g ref="char:EOLhyphen"/>ligion; as it gives God's Spirit the Opportunity to concur and work with us,</p>
+            <pb n="13" facs="tcp:48459:9"/>
+            <p>2ly. As it gives Courage, and Aſſurance, in the performance of our Duty. St. <hi>Peter</hi> ſtiles ſuch an one, a <hi>Living ſtone,</hi> and doth not think himſelf leſſened, by our Saviours comparing the practical Chriſtian, to the houſe built upon the rock. He that loves Good<g ref="char:EOLhyphen"/>neſs, may with confidence and a good grace, re<g ref="char:EOLhyphen"/>commend it; he that hates Vice, may with bold<g ref="char:EOLhyphen"/>neſs, and <hi>ex animo,</hi> reprove and out-face it. How ſneakingly, how coldly muſt that Man act, who is bound to reprove what he dearly loves, and recom<g ref="char:EOLhyphen"/>mend that, which he hath no reliſh for, no ac<g ref="char:EOLhyphen"/>quaintance with? Is not this acting of a Part, and turning our very Churches into Stages? If our bu<g ref="char:EOLhyphen"/>ſineſs be Religion, for God's ſake, let us be reli<g ref="char:EOLhyphen"/>gious.</p>
+            <p>3dly. This gives the beſt Advantage and Further<g ref="char:EOLhyphen"/>ance, in the ſucceſs of our Duty. Such believe, and are ſure they ſpeak from their Heart, and from their own Experience, which is always accompa<g ref="char:EOLhyphen"/>nied with life, and warmth, piercing to the very heart, and inward affections of the hearers, hath the advantage of mens Senſes, as well as of their Un<g ref="char:EOLhyphen"/>derſtandings, and every where beſets them, that the Righteous find ſuch a mans Converſation, an Ex<g ref="char:EOLhyphen"/>hortation; and the Wicked find it a Reproof to their ways; ſuch a Preacher cannot be ſilenced, when his mouth, when even his breath is ſtopt, he yet ſpeaketh.</p>
+            <pb n="14" facs="tcp:48459:10"/>
+            <p>And here give me leave to inſtance in one thing, as particularly exemplary in Paſtors, and the chief of Paſtors, and that is Patience and Conſtancy, Cou<g ref="char:EOLhyphen"/>rage and Reſolution, under the many ſufferings and diſcouragements, which they are to meet with, in the diſcharge of their duty: Our Saviour enjoyning St. <hi>Peter</hi> to feed his Sheep, immediatly adds to it, <hi>Verily verily, I ſay unto thee, when thou waſt young, thou girdedſt thy ſelf, and walkedſt whither thou wouldeſt, but when thou ſhalt be old, thou ſhalt ſtretch forth thy hands, and another ſhall gird thee, and carry thee whi<g ref="char:EOLhyphen"/>ther thou wouldeſt not;</hi> ſignifying both his death, and what treatment he was to expect in the diſcharge of this duty. Our Saviour, who had foretold his Deni<g ref="char:EOLhyphen"/>al, here foretels, and by that commends and increa<g ref="char:EOLhyphen"/>ſes his Patience and Courage; and being thus con<g ref="char:EOLhyphen"/>verted, how doth he, both in his Practice and Preaching, endeavour to ſtrengthen his Brethren? How ſtout and bold was he in his Preaching to the People, in arguing with the Magiſtrates, in taxing the <hi>Sanhedrim.</hi> He ſaw there was no ſtanding againſt that ſtream, but with an holy Confidence and Chri<g ref="char:EOLhyphen"/>ſtian Courage. He was ſlighted, deſpiſed, perſecuted, for ſhewing them the way of Salvation, but againſt all, he was a true Rock, unſhaken, unaffected with it.</p>
+            <pb n="15" facs="tcp:48459:10"/>
+            <p>His Epiſtles are full of Exhortations to this in<g ref="char:EOLhyphen"/>diſpenſable Duty, full of incouragements, under theſe unavoidable Trials. He tells us, it is part of our Cal<g ref="char:EOLhyphen"/>ling to ſuffer wrongfully, to be buffetted and revi<g ref="char:EOLhyphen"/>led, to bear the greateſt ſcoffs and ſlanders, the great<g ref="char:EOLhyphen"/>eſt indignities and perſecutions, and yet for conſcience towards God, to endure it all, and neither be afraid of their terror, nor yet troubled, but to be armed with the ſame mind that was in Chriſt; yea to re<g ref="char:EOLhyphen"/>joyce under all this, as being thereby partakers of Chriſts ſufferings. Was not our great Shepheard thus abuſed, thus ſtricken and ſmitten, and was it not thus, that he entred into his glory; and that he ac<g ref="char:EOLhyphen"/>compliſhed the ſaving of his Flock, and ſhall the Servant expect to be better treated than his Maſter? Shall any be ſuch a Satan as to be far from ſuffering, and not to ſavour theſe things which be from God? Let us not then for theſe things, faint or draw back, we have a faithful Creator, who hath the charge of our Souls, we have the promiſe of his Spirit to reſt upon us, to ſupport and comfort us, and we have this aſſurance, that when his glory ſhall be revealed, we ſhall be glad with exceeding joy.</p>
+            <p>Theſe Conſiderations carried on our Apoſtle, in the many years ſervice which he did the Church, and he was ſo far from ſhrinking under his Perſecutions, that he rather affected the aggravation of them in his
+<pb n="16" facs="tcp:48459:11"/> deſires, as we are told, to be crucified in a more diſ<g ref="char:EOLhyphen"/>graceful and painful poſture than his Maſter; thus did this good Shepherd, lay down his life for his Sheep, and therein manifeſt that he loved Chriſt, and his Sheep more than life it ſelf; for herein is Love, that a Man lay down his life for his Sheep. Would we then have an unerring proof of our Love, let us ask our ſelves, Can we look afflictions in the face? endure hardſhip and deſpiſe ſhame? Can we count all things loſs and dung for the fellowſhip of Chriſts ſufferings? if we ſuffer can we count it a gift? if re<g ref="char:EOLhyphen"/>proached, can we think it honourable? if evil en<g ref="char:EOLhyphen"/>treated, can we exult and be glad? Whilſt we bear about the dying of our Lord Jeſus; can we feel the life of Jeſus manifeſted in our mortal bodies?</p>
+            <p>Theſe are the Expreſſions, which he will ſomtimes ſeek of our Love, theſe are the inſtances which others will ſeek, and depend upon from us when there is occaſion, as that which muſt ſupport and encourage them to bear their ſhares of the afflictions of the Goſpel; we muſt lead up in the day of tryal, we muſt ſtand againſt the Wolves, and the Foxes, (are we not in the midſt of them?) and have we not ſeen the comfortable effects of our Paſtors ſtanding in the gap, the courage and deliverance which it occaſioned to the whole Flock?</p>
+            <pb n="17" facs="tcp:48459:11"/>
+            <p>This is that found Love, which in the New Teſtament is joyned with Patience, and to walk in Love, is to walk ſo as Chriſt alſo loved us, and gave himſelf for us, that is ſuch a Love as holds out under tryals and ſufferings, and neither waxeth cold, nor remitteth; which elſewhere is made the higheſt pitch and perfection of our Love. Herein is our Love made perfect, that we have boldneſs in the day of Judgment, that is, that we be conſtant, and coura<g ref="char:EOLhyphen"/>gious in our Profeſſion, and Duty, notwithſtanding all the attempts, and proceedings of our Adverſaries, and are neither frighted at the greatneſs of the Work, nor diſmayed at the oppoſition which it meets with: and ſo I come to the ſecond thing I propoſed, which was to conſider our Love to Chriſt, as the Ground, and Foundation, as the Guide and Meaſure, of this Duty.</p>
+            <p>2. Love is indeed the affection, and diſpoſition of the Soul, but ſuch as is active, and vigorous, and will diſplay it ſelf, in proper applications, to the thing loved, ſo as the pleaſe and oblige it, as far as it hath opportunity: Thus to love Chriſt, is to keep his Commandments, that is, to do that which he delights to ſee done, and ſo this Love reaches not only all our Heart, and all our Soul, but alſo all our Strength.</p>
+            <pb n="18" facs="tcp:48459:12"/>
+            <p>We muſt then judg of our own Love by the effects of it, and we muſt judg the effect of it, to be pro<g ref="char:EOLhyphen"/>per and genuine by the ſutableneſs, and acceptableneſs of them, to the perſons loved, eſpecially, where they can judg better than we can. To know then the greatneſs, the ſincerity of a Paſtours Love, is by his care of Chriſt's Flock, and how ſutable and accepta<g ref="char:EOLhyphen"/>ble this is to Chriſt, may be gathered from Chriſt's love and concern for it: that he purchaſed it with his Blood, that his whole Life, all that he did and ſuffered whilſt here, all that he doth now tranſact in Heaven, as our High Prieſt, our Mediator and Ad<g ref="char:EOLhyphen"/>vocate, was and is for the purchaſing, the purifying, the ſecuring, and increaſing this Flock.</p>
+            <p>3. We are then his Subſtitutes, carrying on his Work, and whilſt we do that, we are made the Con<g ref="char:EOLhyphen"/>duits, and Pipes through which his Love is tranſmitted unto them, the conveyancers and inlargers of his Love; and can any thing be more acceptable to him? Can we ſay we love him, whilſt we reſtrain his Affecti<g ref="char:EOLhyphen"/>ons, ſtint his Bowels, ſtop the current of his Love? His Love wants nothing, to make even Him, if I may ſo ſay, and all others happy, but the diffuſing and communication of it, which therefore is the great<g ref="char:EOLhyphen"/>eſt Service, the moſt acceptable Love unto him.</p>
+            <p>And ſince he hath made us the Inſtruments, and Diſpenſers of his Love, we then love him moſt, we
+<pb n="19" facs="tcp:48459:12"/> pleaſe him beſt, when we are active, when we are ſucceſsful in it, when we make his Love known unto Men, in Preaching his ſincere Word; when we uſe that Authority, which Chriſt hath left us, for the edifying of his Church; when we hazard all that is dear to us, our Eaſe, our Credit, our Lives, that we may at any time, and by any means comply with his Will, carrying on the deſign of his Love.</p>
+            <p>4. The Work is great and hard indeed, but as the Apoſtle ſaith of all the Commandments, 1 <hi>Joh.</hi> v. 2. upon this Principle of Love, they are not grievous, if we ſincerely love Chriſt, (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Eph.</hi> vi. 24. ſo as not to be corrupted by the baits and allure<g ref="char:EOLhyphen"/>ments of this World) this great, this hard Work, will be but the Labour of Love, and that we know is the gentleſt, and eaſieſt of all Labours, and in many caſes cannot brook the name of Labour: for in all Love, the Spirits flowing to the Heart, make the perſon active and vigorous, able and willing to take pains. This Love of Chriſt is a moſt active buſie Principle, always putting us in remembrance of this Duty, always ſtirring up the Grace of God, which was given us, by the impoſition of Hands, at our entrance upon this Work, and continually puſhing us on in our endeavours, and making our very endeavours both to enlarge our Strength and Love, that we ſhall find it a Spirit of Power, and of a ready Mind.</p>
+            <pb n="20" facs="tcp:48459:13"/>
+            <p>Love muſt be the inward Principle of this Duty; this Duty muſt be the outward expreſſion and proof of this Love; Love without Duty is but empty Complement, Duty without Love is but Toil and Drudgery.</p>
+            <p>5. When then, we enter upon this Work, is it not neceſſary, that we ſhould do it with a ſolemn Pro<g ref="char:EOLhyphen"/>feſſion, that we truſt, we are moved by the Holy Ghoſt; by this Divine Principle of Love unto Chriſt, and deſire to ſerve him in it? He that entereth not thus into the Sheepfold, but climbeth up ſome other way, it is to ſteal and to rob, and I wiſh ſuch would ſeriouſly ask themſelves, when they profeſs to be moved by the Holy Ghoſt, whether they do not <hi>lie unto the Holy Ghoſt?</hi> And as this Love muſt be the firſt and great Principle of this Duty, ſo muſt it be the Guide and Meaſure of it, we muſt feed Chriſts Sheep out of love to them, as well as unto Chriſt; with Love unfeigned, and a pure Heart fervently: For what we do to them, we do to Chriſt; what Meekneſs, and Tenderneſs, what Bowels of Mercy and Compaſſion, what long Suffering and obliging Behaviour we ſhew to them, (and theſe I take to be ſome of the moſt proper expreſſions of Love,) are thereby done to Chriſt himſelf.</p>
+            <p>6. Can we love him, and at the ſame time per<g ref="char:EOLhyphen"/>ſecute him? Can our Bowels yearn towards him
+<pb n="21" facs="tcp:48459:13"/> whilſt we are tearing out his very Bowels, and making havock of all his Members? Can we be kindly affectioned toward Him, and above meaſure mad againſt his Sheep? If the Sheep will not ſtarve her Lamb, to ſpare us all her Milk, ſhall we ſuck her Blood? Becauſe the Lamb cannot feed on ſuch ſtrong meat as the old one doth, ſhall we ſtarve her? Becauſe ſome go aſtray, muſt they become meat to all the Beaſts of the Field? <hi>Ezek.</hi> xxxiv. 5. and all this out of pure Pity and Compaſſion? Ah weeping Crocodile! Ah ye Holy Fathers of the Inquiſi<g ref="char:EOLhyphen"/>tion!</p>
+            <p>Is this Chriſt's way of Feeding? Is it not that ſpoken of by the Prophet, as the ſevereſt threat. <hi>Thus ſaith the Lord my God, Feed the flock of the ſlaughter; whoſe poſſeſſours ſlay them, and hold themſelves not guilty: and they that ſell them, ſay, Bleſſed be the Lord, for I am rich: and their own ſhepherds pity them not.</hi> Zach. xi. 4, 5. If this be the Spirit of Chriſt, that Love which is the whole of the Goſpel, the filling up, and completion of it; ſurely the Goſpel it ſelf, is Tran<g ref="char:EOLhyphen"/>ſubſtantiated, and worſer abuſed, than ever Chriſt's Body was: that Bread ſhould be made his Body, is not ſo great a Prodigy, as that Cruelty, ſhould be Love; Oppreſſion, Mercy; Fire, Dragooning, and Devaſtation, ſhould now be the Bowels of Chriſt, and the tender Mercies of the Goſpel.</p>
+            <pb n="22" facs="tcp:48459:14"/>
+            <p>7. But let the Extravagances of ſome, make us wiſer, and teach us ſuch a Love, as may preſerve us from being thus beloved: let us Inſtruct with Meekneſs, Correct with Mildneſs, gently leading on, as the Flock is able to bear, that they who are not of our Minds, may yet partake of our Affections: they who are not in our Congregations, may yet be in our Hearts: that although we do not Convert them, we may yet Convince them: if we cannot ſatisfie them, we may be able to ſatisfie our own Conſciences, both now, in the preſence of Chriſt, and of all the World.</p>
+            <p>Feeding doth imply ſomething more than juſt ſet<g ref="char:EOLhyphen"/>ting Meat before any, it is the doing it, in ſuch a manner, as may do them moſt good, it is the Kind<g ref="char:EOLhyphen"/>neſs, and the Seaſonableneſs of an Entertainment, which doth recommend it. The Shepherd, the Parent, the Nurſe, are feign to ſtudy the Palat, the Stomach, the Strength of thoſe they are to Diet, or elſe they may Weaken, and Starve them with good Fare: and I have often obſerved, ſome Truths, pro<g ref="char:EOLhyphen"/>poſed in ſuch a manner, as have provoked the per<g ref="char:EOLhyphen"/>ſon whom they ſhould, and might have inſtructed.</p>
+            <p>Would you perſuade a Man of ſmall Courage, to decline ſuch an occaſion of quarreling, by telling him, that to your knowledg he is a Coward, the Argument is the worſt Provocation; and it is juſt
+<pb n="23" facs="tcp:48459:14"/> the ſame, to convince a Man of Error, by calling him Heretick, and then railing againſt Hereſie: it may well be queſtioned, whether this hath not made more Hereticks, than ever it Convinced.</p>
+            <p>Is not the Duty of a Paſtor expreſſed by his be<g ref="char:EOLhyphen"/>ſeeching, praying, obliging, winning? Such I am ſure was S. <hi>Paul</hi>'s Method. And is not the Biſhop to be Patient, able to bear the Infirmities of thoſe that are in the wrong? Is he not to behave himſelf with all lowlineſs, with long Suffering, and forbearing in Love? Are they not to pleaſe their Flocks for their good, unto Edifying, ſhewing all Meekneſs towards all Men, even them that oppoſe themſelves,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> and is not Meekneſs a yielding Temper, a ſteping back that it may more ſurely gain its great and main end? Muſt not the Biſhop be one of a good Report, in Credit with his Flock, one whom they have a good Opinion of, one whom they find to love both the Truth, and them: the Truth for their ſakes, and them for Chriſt's.</p>
+            <p>For when all is done, moſt Men do hear with their Affections, and there is no coming at their Under<g ref="char:EOLhyphen"/>ſtandings, but by them; we loſe our labour, if we think to ſtorm that Fort without gaining theſe Out<g ref="char:EOLhyphen"/>works, and ſeeing it is ſo, we muſt ſpeak to Men as they are capable of hearing; perhaps it is thus on purpoſe; to teach us, that Love is as valuable, as ma<g ref="char:EOLhyphen"/>ny
+<pb n="24" facs="tcp:48459:15"/> Truths, that it is the way of gaining all. Hath not God commanded us to follow the Truth in Love? hath he not reſolved, that he will teach the meek his ways? that he will not accept all Knowledge, all Faith (and what can Truth it ſelf aim at more) with<g ref="char:EOLhyphen"/>out Charity?</p>
+            <p>It is not the prerogative of Truth to convince, it is but the Way, not the End, we water, but God gives the increaſe; we propoſe, but God convinces; we rebuke, but it is God who gives Repentance. What Pride, what Preſumption then is it, for any to be angry and peeviſh, if ſo ſoon as they have wa<g ref="char:EOLhyphen"/>tered, the increaſe doth not appear, if upon their propoſing, the Perſon is not preſently convinced, if upon their rebuking he ſhew no Repentance? And ſhall any do well to be angry in theſe caſes? Doth not all ſuch Paſſion fly in the face of God himſelf, who is pleaſed to withhold his Concurrence? either becauſe they proceed not in his way, did not rebuke with Meekneſs, or becauſe they claimed too great a ſhare in it themſelves, they muſt have them to be their Converts; or laſtly, becauſe God knows better than we, when to interpoſe and beſtow his Mercy, that the power may be of God and not of Man, that it may anſwer his ends, rather than theirs. I have been the longer upon this, becauſe I do believe, that our feeding in Love, is loving of Chriſt, the Object diffe<g ref="char:EOLhyphen"/>rent,
+<pb n="25" facs="tcp:48459:15"/> but the ſame Affection; for that very Union which makes Chriſt to be one with them, makes our Love of them, to be our Love of Chriſt; and that Feaſt of Love, which we are going to partake of, makes us to be one with Chriſt, as it unites us in Love and Good-will towards each other, whereby we being many, become one Body, one Church, the members of Chriſt, and of each other. To con<g ref="char:EOLhyphen"/>clude all,</p>
+            <p>Suffer, I beſeech you, a word of Exhortation, and let me once, twice, and a third time, inforce this Du<g ref="char:EOLhyphen"/>ty, that if you love Chriſt, that as you love Chriſt, that as you deſire your Love may be approved, and inlarged by him, you would feed, and thus feed his Sheep, gathering the Lambs with your Arms, and carrying them in the Boſome, gently leading thoſe that are with young, and fetching back the loſt upon your ſhoulders. Theſe are the Expreſſions which God by his Prophet, and Chriſt in his Goſpel are plea<g ref="char:EOLhyphen"/>ſed to make uſe of, ſetting forth thereby their great Care and tender Concern for their Sheep; and can you take a better Courſe? Can you follow a better Pat<g ref="char:EOLhyphen"/>tern than to be merciful as your Heavenly Father is merciful, than to be ſent, as Chriſt himſelf was, to ſeek and to ſave? May you ſo faithfully diſcharge this great Duty, that Chriſt may own and bleſs whatſoe<g ref="char:EOLhyphen"/>ver you do for him and his; and the God of Peace
+<pb n="26" facs="tcp:48459:16"/> who brought again from the dead, our Lord Jeſus Chriſt, that great Shepherd of the Sheep, through the Blood of the everlaſting Covenant, make you perfect to do his Will, working in you that which is well pleaſing in his ſight, to whom be Glory for ever.</p>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:48459:16"/>
+            <head>Books Printed for <hi>James Adamſon.</hi>
+            </head>
+            <p n="1">I. A Defence of Dioceſan Epiſcopacy, in anſwer to a Book of Mr. <hi>David Clarkſon;</hi> lately publiſhed, Entituled <hi>Primitive Epiſcopacy:</hi> by <hi>Henry Maurice,</hi> D. D. <hi>Octavo.</hi>
+            </p>
+            <p n="2">II. Vita Reginaldi Poli, Cardinalis ac Cantuarienſis Archiepiſco<g ref="char:EOLhyphen"/>pi; &amp; Acta Diſceptationis inter Legatos Angliae &amp; Galliae in Con<g ref="char:EOLhyphen"/>cilio Conſtantienſi, de utriuſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> Gentis Dignitate &amp; Praerogativa; in Conciliorum Tomis deſiderata. Libri Rariſſimi, olim quidem E<g ref="char:EOLhyphen"/>diti, ſed paucis noti, ac nullis facile obvii. <hi>Octavo.</hi>
+            </p>
+            <p n="3">III. Pauli Colomeſii Obſervationes ſacrae, Editio ſecunda, au<g ref="char:EOLhyphen"/>ctior &amp; emendatior; accedunt ejuſdem Paralipomena, de Scriptori<g ref="char:EOLhyphen"/>bus Eccleſiaſticis, &amp; Paſſio ſancti Victoris Maſſilienſis, ab eodem<g ref="char:punc">▪</g> emendata: Editio quarta &amp; ultima longè auctior &amp; emendatior. <hi>Oct.</hi>
+            </p>
+            <p n="4">IV. The Travels of <hi>Monſieur de The venot</hi> into the <hi>Levant.</hi> In three<g ref="char:punc">▪</g> parts, <hi>viz.</hi> 1. Into <hi>Turky. 2. Perſia.</hi> 3. The <hi>Eaſt Indies. Folio.</hi>
+            </p>
+            <p n="5">V. Mr. <hi>Chillingworth</hi>'s Book, called [<hi>The Religion of Proteſtants, a ſafe way to Salvation</hi>] made more generally uſeful by omitting Perſonal Conteſts, but inſerting whatſoever concerns the common Cauſe of <hi>Proteſtants,</hi> or defends the <hi>Church of England,</hi> with an exact Table of Contents; and an <hi>Addition</hi> of ſome genuine Pieces of Mr. <hi>Chillingworth</hi>'s never before printed, <hi>viz.</hi> againſt the <hi>Infal<g ref="char:EOLhyphen"/>libility</hi> of the <hi>Roman</hi> Church, <hi>Tranſubſtantiation, Tradition,</hi> &amp;c. And an Account of what moved the Author to turn Papiſt, with his Confutation of the ſaid Motives. <hi>Quarto.</hi>
+            </p>
+            <p n="6">VI. A Treatiſe of the Celibacy of the Clergy, wherein its Riſe and Progreſs are Hiſtorically conſidered. <hi>Quarto:</hi>
+            </p>
+            <p n="7">VII. A Treatiſe proving Scripture to be the Rule of Faith; writ by <hi>Reginald Peacock,</hi> Biſhop of <hi>Chicheſter,</hi> before the Refor<g ref="char:EOLhyphen"/>mation, about the year 1450.</p>
+            <p n="8">VIII. Doubts concerning the <hi>Roman Infallibility.</hi> 1. Whether the Church of <hi>Rome</hi> believe it. 2. Whether Jeſus Chriſt or his Apo<g ref="char:EOLhyphen"/>ſtles ever Recommended it. 3. Whether the Primitive Church knew, or uſed that way of deciding Controverſies.</p>
+            <p n="9">IX. A brief Hiſtorical Account of the Behaviour of the <hi>Je<g ref="char:EOLhyphen"/>ſuits</hi> and their Faction, for the firſt twenty five Years of Q. <hi>Eliza<g ref="char:EOLhyphen"/>beths</hi> Reign; with an Epiſtle of <hi>W. Watſon</hi> a Secular Prieſt; ſhewing how they were thought of by other <hi>Romaniſts</hi> of that time. <hi>Quarto.</hi>
+            </p>
+            <p n="10">X. A brief Examination of the preſent <hi>Roman</hi> Catholick Faith, contained in Pope <hi>Pius</hi> his new Creed, by the Scriptures, Ancient Fathers, and their own Modern Writers. <hi>Quarto.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
